@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minha Lista</string>
+    <string name="action_settings">Configurações</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="salvar">Salvar</string>
+    <string name="nomedoprod">Nome do produto...</string>
+    <string name="alert" >Você deve preencher todos os campos!</string>
+    <string name="CEP" translatable="false">Confirma exclusão do produto: </string>
+    <string name="excluir" translatable="false">Excluir...</string>
+    <string name="cancelar" translatable="false">Cancelar</string>
+    <string name="sim" translatable="false">Sim</string>
+
+
+    <string-array name="categorias">
+        <item>Selecione a categoria...</item>
+        <item>Alimentos</item>
+        <item>Bebidas</item>
+        <item>Outros</item>
+    </string-array>
+
+
+</resources>
