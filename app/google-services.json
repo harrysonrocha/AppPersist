@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045053229733",
+    "firebase_url": "https://apppersist-ce575-hvr-default-rtdb.firebaseio.com",
+    "project_id": "apppersist-ce575-hvr",
+    "storage_bucket": "apppersist-ce575-hvr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045053229733:android:47f562ec965f75b7d85b4c",
+        "android_client_info": {
+          "package_name": "com.example.apppersist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045053229733-fjolrbsflqh3kv3r8mgleqsaiad3ngt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPSjNSCE68YPU1IS6d4RCC57kugR7hRgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045053229733-fjolrbsflqh3kv3r8mgleqsaiad3ngt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

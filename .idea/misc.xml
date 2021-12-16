@@ -4,12 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/drawable/gradient.xml" value="0.37864583333333335" />
         <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
         <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/layout-land/activity_formulario.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/layout-land/activity_login.xml" value="0.30687830687830686" />
         <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/layout/activity_formulario.xml" value="0.33" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/layout/activity_login.xml" value="0.3625" />
         <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/layout/content_main.xml" value="0.20520833333333333" />
-        <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/menu/menu_main.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/menu/menu_main.xml" value="0.33" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/mipmap-anydpi-v26/ic_launcher_03.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/AppPersist/app/src/main/res/mipmap-anydpi-v26/ic_launcher_03_round.xml" value="0.37864583333333335" />
       </map>
     </option>
   </component>

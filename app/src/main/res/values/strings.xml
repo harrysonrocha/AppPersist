@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">My List</string>
+    <string name="app_name">List</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -12,18 +12,31 @@
     <string name="quantidade">Quantity</string>
     <string name="salvar">Save</string>
     <string name="nomedoprod">Product name...</string>
-    <string name="alert" >You must fill in all fields!</string>
+    <string name="alert">You must fill in all fields!</string>
     <string name="CEP" translatable="false">Confirm product deletion: </string>
     <string name="excluir" translatable="false">Delete...</string>
     <string name="cancelar" translatable="false">Cancel</string>
     <string name="sim" translatable="false">Yes</string>
+    <string name="digiteemail" translatable="false">Email</string>
+    <string name="senha" translatable="false">Password</string>
+    <string name="entrar" translatable="false">LOGIN</string>
+    <string name="cadastrar" translatable="false">REGISTER</string>
+    <string name="bemvindo">Welcome!</string>
+    <string name="addProd">Add products</string>
+    <string name="exit">Exit</string>
+    <string name="data" translatable="false">Purchase date</string>
+
 
 
     <string-array name="categorias">
         <item>Select category...</item>
-        <item>FOOD</item>
-        <item>DRINK</item>
-        <item>Other</item>
+        <item>Butcher Shop</item>
+        <item>Bakery</item>
+        <item>Cold cuts and dairy products</item>
+        <item>Vegetables and grocery store</item>
+        <item>Cellar and Beverages</item>
+        <item>Hygiene and cleaning</item>
+        <item>Canned goods</item>
     </string-array>
 
 

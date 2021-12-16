@@ -2,11 +2,12 @@ package com.example.apppersist;
 
 public class Produto {
 
-    public int id;
+    private String id;
 
-    public String nome, categoria;
+    public String nome, categoria, data;
 
     public double quantidade;
+
 
 
 
@@ -15,6 +16,9 @@ public class Produto {
         this.categoria = categoria;
     }
 
+    public Produto() {
+
+    }
 
 
     @Override
@@ -24,16 +28,16 @@ public class Produto {
             return nome;
         } else {
 
-            return nome + "  |  " + quantidade + "  |  " + categoria;
+            return nome + "  |  " + quantidade + "  |  " + categoria + "  |  " + data;
         }
     }
 
 
-    public int getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
@@ -57,6 +61,8 @@ public class Produto {
 
     public void setQuantidade(double quantidade) { this.quantidade = quantidade; }
 
+    public String getData() {return data;}
 
+    public void setData(String data) {this.data = data;}
 }
 

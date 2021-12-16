@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Minha Lista</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Lista</string>
     <string name="action_settings">Configurações</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -18,13 +18,25 @@
     <string name="excluir" translatable="false">Excluir...</string>
     <string name="cancelar" translatable="false">Cancelar</string>
     <string name="sim" translatable="false">Sim</string>
+    <string name="digiteemail" translatable="false">Email</string>
+    <string name="senha" translatable="false">Senha</string>
+    <string name="entrar" translatable="false">ENTRAR</string>
+    <string name="cadastrar" translatable="false">CADASTRAR</string>
+    <string name="bemvindo">Bem Vindo!</string>
+    <string name="addProd">Adicionar produtos</string>
+    <string name="exit">Sair</string>
+    <string name="data" translatable="false">Data da compra</string>
 
 
     <string-array name="categorias">
         <item>Selecione a categoria...</item>
-        <item>Alimentos</item>
-        <item>Bebidas</item>
-        <item>Outros</item>
+        <item>Açougue</item>
+        <item>Padaria</item>
+        <item>Frios e laticínios</item>
+        <item>Hortifruti e mercearia</item>
+        <item>Adega e bebidas</item>
+        <item>Higiene e limpeza</item>
+        <item>Enlatados</item>
     </string-array>
 
 

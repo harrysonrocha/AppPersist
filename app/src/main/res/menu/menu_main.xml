@@ -3,8 +3,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.apppersist.MainActivity">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/menuAdicionarProduto"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
+        android:title="@string/addProd"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuSair"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="@string/exit"
+        app:showAsAction="never" />
+
 </menu>
